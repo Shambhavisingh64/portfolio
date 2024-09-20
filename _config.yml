@@ -1,4 +1,38 @@
-title: "Shambhavi' Portfolio"
-description: "My portfolio"
+# Basic settings for Jekyll configuration
 
+title: "Shambhavi Singh's Portfolio"
+description: "My portfolio showcasing my experience, skills, and projects"
 theme: jekyll-theme-midnight
+
+# Optional settings for customizing further
+baseurl: "" # Leave blank unless you have a specific subpath (e.g. /portfolio)
+url: "https://your-github-username.github.io" # URL of your website if hosted on GitHub Pages
+
+# Author information
+author: 
+  name: "Shambhavi Singh"
+  email: "singh137@illinois.edu"
+
+# Social media links (Optional)
+social_links:
+  linkedin: "https://www.linkedin.com/in/shambhavi-singh/"
+
+# Markdown and Permalink settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude folders or files from the build (optional)
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Enable pagination (Optional if you have multiple blog posts or pages)
+plugins:
+  - jekyll-paginate
+
+paginate: 5 # Show 5 posts per page
+paginate_path: "/page:num/"
+
+# Optional, if you want syntax highlighting in code blocks
+highlighter: rouge
