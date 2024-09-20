@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm Shambhavi Singh, a passionate Data Science enthusiast and Business Analyst with a strong foundation in software engineering and business process optimization. Currently pursuing my Master's in Business Analytics at the University of Illinois Urbana-Champaign, I have a proven track record of leading cross-functional teams to deliver impactful projects across the tech-insurance and finance sectors. 
+I'm Shambhavi Singh, a passionate Data Science enthusiast and Business Analyst with a strong foundation in software engineering and business process optimization. Currently pursuing my Master's in Business Analytics at the University of Illinois Urbana-Champaign, I have a proven track record of leading cross-functional teams to deliver impactful projects across the tech-insurance and finance sectors.
 
 With a background in full-stack development, business process re-engineering, and data science, I specialize in crafting technical solutions that align with business objectives. From launching India's first online Group Life Insurance system to building real-time expedition tracking apps, my experience spans product development, business analysis, and machine learning.
 
@@ -17,7 +17,7 @@ With a background in full-stack development, business process re-engineering, an
 
 ## 💼 Professional Experience
 
-### Digit Life Insurance - Deputy Manager, Business Process (Dec 2023 – Jul 2023)
+### Digit Life Insurance - Deputy Manager, Business Process (Dec 2022 – Jul 2023)
 - Led a team to design and launch India’s first online Group Life Insurance system, improving operational efficiency by 50%.
 - Increased team productivity by 20% through effective cross-functional collaboration on technical solutions.
 
@@ -47,5 +47,3 @@ With a background in full-stack development, business process re-engineering, an
 ## 📚 Certifications
 
 - **Digital Transformation** – Indian School of Business Executive Education (Jul 2023)
-
-
